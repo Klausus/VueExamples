@@ -5,8 +5,8 @@ Aprende los Fundamentos de Vue.js 3 (Composition API + Vite) [Curso 2022] <br>
 https://www.youtube.com/watch?v=PL-aTHv2L3E&list=PLPl81lqbj-4J-gfAERGDCdOQtVgRhSvIT
 
 ## Deployed & LivePreview/LiveTest 
-<b>Desployed:</b> https://klausus-vue-examples-mi-primer-vue.netlify.app/ <br>
-<b>Live Preview/Test:</b> https://codesandbox.io/s/klausus-vue-examples-mi-primer-vue-f68swh?file=/HOWTORUN
+<b>Desployed Netlify:</b> https://klausus-vue-examples-mi-primer-vue.netlify.app/ <br>
+<b>CodeSandbox:</b> https://codesandbox.io/s/github/Klausus/VueExamples/tree/main/mi-primer-vue <br>
 
 ## Versions
 Node v18.12.1 <br>
