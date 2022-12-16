@@ -5,6 +5,8 @@ Practicas de VUE JS 3 de los distintos tutoriales que voy viendo/realizando para
 
 - Mi Post Favorito: Practica de Componentes bajo Composition-API <br> https://github.com/Klausus/VueExamples/tree/main/vue3-post-fav <br>
 
+- Poke API: Practica de Rutas/Routes (Routes v4) <br> https://github.com/Klausus/VueExamples/tree/main/vue3-router-practise-pkm <br>
+
 # Vue 2
 Practicas de VUE JS 2 de los distintos tutoriales que voy viendo/realizando para aprende VUE.
 - TODO
