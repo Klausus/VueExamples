@@ -1,12 +1,11 @@
-# VUE3: PokeApi - Practica de Rutas (Router v4)
+# VUE3: PokeApi - Practica de Composables & Pinia (VUEX 5)
+Esto es la practica de la Seccion 6 & 7 del curso de VUE3 de bluuweb!: https://www.udemy.com/course/curso-vue/
 
-Esto es la practica de la Seccion 5 del curso de VUE3 de bluuweb!: https://www.udemy.com/course/curso-vue/
-
-Documentacion de Rutas (Router v4): https://bluuweb.github.io/vue-udemy/30-03-router/ <br>
+Documentacion de Pinia (VUEX v5): https://bluuweb.github.io/vue-udemy/30-04-pinia/ <br>
 
 ## Deployed & LivePreview/LiveTest 
-<b>Desployed Netlify:</b> https://klausus-vue3-router-practise-pkm.netlify.app/ <br>
-<b>CodeSandbox:</b> https://codesandbox.io/s/github/Klausus/VueExamples/tree/main/vue3-router-practise-pkm
+<b>Desployed Netlify:</b> https://klausus-vue3-pinia-practise-pkm.netlify.app/ <br>
+<b>CodeSandbox:</b> https://codesandbox.io/s/github/Klausus/VueExamples/tree/main/vue3-pinia-practise-pkm
 
 ## Versions
 Node  18.12.1 <br>
