@@ -9,6 +9,8 @@ Practicas de VUE JS 3 de los distintos tutoriales que voy viendo/realizando para
 
 - Poke API v2: Practica de Pinia (Vuex 5) <br> https://github.com/Klausus/VueExamples/tree/main/vue3-pinia-practise-pkm <br>
 
+- FireBase Login & Panel: Practica FireBase/FireDocs + Pinia (Vuex 5) <br> https://github.com/Klausus/VueExamples/tree/main/vue3-firebase-practise <br>
+
 # Vue 2
 Practicas de VUE JS 2 de los distintos tutoriales que voy viendo/realizando para aprende VUE.
 - TODO
